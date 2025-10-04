@@ -69,18 +69,6 @@ Cada versão da calculadora é testada com PME e validada por consultores extern
 
 ---
 
-## 🤝 Parcerias e colaboração
-
-A Léguas ESG colabora com:
-- Universidades e centros de investigação portugueses  
-- Associações empresariais e clusters de sustentabilidade  
-- Organismos de certificação (ISO, Green Key, Biosphere)  
-- Entidades públicas (Turismo de Portugal, APA, ADENE)
-
-Esta rede assegura **credibilidade, inovação e escalabilidade**, reforçando o ecossistema nacional de sustentabilidade e economia circular.
-
----
-
 ## 📊 Ética e transparência de dados
 
 A Léguas ESG cumpre o **RGPD (UE 2016/679)** e garante:
@@ -98,21 +86,6 @@ A metodologia e a lógica algorítmica da Calculadora Circular são disponibiliz
 **[Creative Commons Atribuição–NãoComercial 4.0 Internacional (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/)**.
 
 > Uso livre para fins educativos e científicos, preservando a autoria e integridade da Léguas ESG.
-
----
-
-## 📁 Estrutura do repositório
-
-Circular-Raw-Material-Calculator/
-│
-├── about.html # versão HTML da página institucional
-├── README.md # este documento
-├── assets/ # ícones, imagens, CSS
-├── scripts/ # scripts e lógica da calculadora (futuro)
-└── LICENSE # ficheiro CC BY-NC 4.0
-
-yaml
-Copiar código
 
 ---
 
