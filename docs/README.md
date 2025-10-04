@@ -6,4 +6,4 @@
 - [About](../ABOUT.md) — Metodologia científica e indicadores  
 - [Governance](../GOVERNANCE.md) — Política de dados e revisão  
 - [Script Automation](automation.md) — Script usado no Airtable (JS)  
-- [API Schema](api.md) — Estrutura de integração futura  
+- [API Schema](esquema-de-dados) — Estrutura de integração futura  
