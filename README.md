@@ -69,7 +69,7 @@ Cada versão da calculadora é testada com PME e validada por consultores extern
 
 ---
 
-## 📊 Ética e transparência de dados
+##  Ética e transparência de dados
 
 A Léguas ESG cumpre o **RGPD (UE 2016/679)** e garante:
 - Uso ético e responsável dos dados;  
@@ -80,7 +80,7 @@ Mediante protocolo, é possível disponibilizar **acesso API** a dados anonimiza
 
 ---
 
-## 🪙 Licenciamento e acesso aberto
+##  Licenciamento e acesso aberto
 
 A metodologia e a lógica algorítmica da Calculadora Circular são disponibilizadas sob licença  
 **[Creative Commons Atribuição–NãoComercial 4.0 Internacional (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/)**.
@@ -89,7 +89,7 @@ A metodologia e a lógica algorítmica da Calculadora Circular são disponibiliz
 
 ---
 
-## 📩 Contactos
+##  Contactos
 
 **Léguas ESG – Inteligência Sustentável**  
 Lisboa e Porto, Portugal  
@@ -97,7 +97,7 @@ Lisboa e Porto, Portugal
 
 ---
 
-## ⚖️ Direitos de autor
+## ⚖ Direitos de autor
 
 © Léguas ESG · 2025  
 Repositório: [LeguasESG / Circular-Raw-Material-Calculator](https://github.com/LeguasESG/Circular-Raw-Material-Calculator)
